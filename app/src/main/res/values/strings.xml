@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cinephence</string>
+    <string name="action_about">About</string>
+
+    <string name="menu_byRating">by Rating</string>
+    <string name="menu_byTitle">by Title</string>
+
+    <string name="content_about">Cinephence \nby afsinka \n2016 ©</string>
+
+    <string name="button_search">Search</string>
+    <string name="button_change">Change</string>
+
+    <string name="min_rating_title">minimum rating</string>
+    <string name="min_votes_title">minimum number of votes</string>
+    <string name="imdbClick">Click here to check on IMdB!</string>
+    <string name="opps">Opps! Try again please!</string>
+    <string name="nomatch">No match, try again!</string>
+    <string name="luckySentence">Your lucky word is</string>
+</resources>

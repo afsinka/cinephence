@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cinephence</string>
+    <string name="action_about">Hakkında</string>
+
+    <string name="menu_byRating">Puana Göre</string>
+    <string name="menu_byTitle">İsme Göre</string>
+
+    <string name="content_about">Cinephence \nby afsinka \n2016 ©</string>
+
+    <string name="button_search">Ara</string>
+    <string name="button_change">Değiştir</string>
+
+    <string name="min_rating_title">puanı en az</string>
+    <string name="min_votes_title">oy sayısı en az</string>
+    <string name="imdbClick">IMdB\'de görmek için tıkla!</string>
+    <string name="opps">Opps! Tekrar dene!</string>
+    <string name="nomatch">Uygun sonuç yok! Tekrar dene!</string>
+    <string name="luckySentence">Şanslı kelime</string>
+</resources>
